@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "/Users/ahmedabufayed/Downloads/Projects/Breaking-News-main/build/app/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/ahmedabufayed/Downloads/Projects/Breaking-News-main/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ahmedabufayed/Downloads/Projects/Breaking-News-main/build/app/intermediates/merged_res/debug/drawable-mdpi_splash_light.png.flat",
+        "source": "/Users/ahmedabufayed/Downloads/Projects/Breaking-News-main/android/app/src/main/res/drawable-mdpi/splash_light.png"
+    },
+    {
+        "merged": "/Users/ahmedabufayed/Downloads/Projects/Breaking-News-main/build/app/intermediates/merged_res/debug/drawable-xxxhdpi_splash_light.png.flat",
+        "source": "/Users/ahmedabufayed/Downloads/Projects/Breaking-News-main/android/app/src/main/res/drawable-xxxhdpi/splash_light.png"
+    },
+    {
+        "merged": "/Users/ahmedabufayed/Downloads/Projects/Breaking-News-main/build/app/intermediates/merged_res/debug/drawable-hdpi_splash_dark.png.flat",
+        "source": "/Users/ahmedabufayed/Downloads/Projects/Breaking-News-main/android/app/src/main/res/drawable-hdpi/splash_dark.png"
+    },
+    {
+        "merged": "/Users/ahmedabufayed/Downloads/Projects/Breaking-News-main/build/app/intermediates/merged_res/debug/drawable-xhdpi_splash_dark.png.flat",
+        "source": "/Users/ahmedabufayed/Downloads/Projects/Breaking-News-main/android/app/src/main/res/drawable-xhdpi/splash_dark.png"
+    },
+    {
+        "merged": "/Users/ahmedabufayed/Downloads/Projects/Breaking-News-main/build/app/intermediates/merged_res/debug/drawable-v21_launch_background.xml.flat",
+        "source": "/Users/ahmedabufayed/Downloads/Projects/Breaking-News-main/android/app/src/main/res/drawable-v21/launch_background.xml"
+    },
+    {
+        "merged": "/Users/ahmedabufayed/Downloads/Projects/Breaking-News-main/build/app/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/ahmedabufayed/Downloads/Projects/Breaking-News-main/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ahmedabufayed/Downloads/Projects/Breaking-News-main/build/app/intermediates/merged_res/debug/drawable-mdpi_splash_dark.png.flat",
+        "source": "/Users/ahmedabufayed/Downloads/Projects/Breaking-News-main/android/app/src/main/res/drawable-mdpi/splash_dark.png"
+    },
+    {
+        "merged": "/Users/ahmedabufayed/Downloads/Projects/Breaking-News-main/build/app/intermediates/merged_res/debug/drawable-hdpi_splash_light.png.flat",
+        "source": "/Users/ahmedabufayed/Downloads/Projects/Breaking-News-main/android/app/src/main/res/drawable-hdpi/splash_light.png"
+    },
+    {
+        "merged": "/Users/ahmedabufayed/Downloads/Projects/Breaking-News-main/build/app/intermediates/merged_res/debug/drawable-xxhdpi_splash_dark.png.flat",
+        "source": "/Users/ahmedabufayed/Downloads/Projects/Breaking-News-main/android/app/src/main/res/drawable-xxhdpi/splash_dark.png"
+    },
+    {
+        "merged": "/Users/ahmedabufayed/Downloads/Projects/Breaking-News-main/build/app/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/ahmedabufayed/Downloads/Projects/Breaking-News-main/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ahmedabufayed/Downloads/Projects/Breaking-News-main/build/app/intermediates/merged_res/debug/drawable-ldpi_splash_dark.png.flat",
+        "source": "/Users/ahmedabufayed/Downloads/Projects/Breaking-News-main/android/app/src/main/res/drawable-ldpi/splash_dark.png"
+    },
+    {
+        "merged": "/Users/ahmedabufayed/Downloads/Projects/Breaking-News-main/build/app/intermediates/merged_res/debug/drawable-ldpi_splash_light.png.flat",
+        "source": "/Users/ahmedabufayed/Downloads/Projects/Breaking-News-main/android/app/src/main/res/drawable-ldpi/splash_light.png"
+    },
+    {
+        "merged": "/Users/ahmedabufayed/Downloads/Projects/Breaking-News-main/build/app/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/ahmedabufayed/Downloads/Projects/Breaking-News-main/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ahmedabufayed/Downloads/Projects/Breaking-News-main/build/app/intermediates/merged_res/debug/drawable-xhdpi_splash_light.png.flat",
+        "source": "/Users/ahmedabufayed/Downloads/Projects/Breaking-News-main/android/app/src/main/res/drawable-xhdpi/splash_light.png"
+    },
+    {
+        "merged": "/Users/ahmedabufayed/Downloads/Projects/Breaking-News-main/build/app/intermediates/merged_res/debug/drawable-xxxhdpi_splash_dark.png.flat",
+        "source": "/Users/ahmedabufayed/Downloads/Projects/Breaking-News-main/android/app/src/main/res/drawable-xxxhdpi/splash_dark.png"
+    },
+    {
+        "merged": "/Users/ahmedabufayed/Downloads/Projects/Breaking-News-main/build/app/intermediates/merged_res/debug/drawable_launch_background.xml.flat",
+        "source": "/Users/ahmedabufayed/Downloads/Projects/Breaking-News-main/android/app/src/main/res/drawable/launch_background.xml"
+    },
+    {
+        "merged": "/Users/ahmedabufayed/Downloads/Projects/Breaking-News-main/build/app/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/ahmedabufayed/Downloads/Projects/Breaking-News-main/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ahmedabufayed/Downloads/Projects/Breaking-News-main/build/app/intermediates/merged_res/debug/drawable-xxhdpi_splash_light.png.flat",
+        "source": "/Users/ahmedabufayed/Downloads/Projects/Breaking-News-main/android/app/src/main/res/drawable-xxhdpi/splash_light.png"
+    }
+]
