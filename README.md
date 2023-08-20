@@ -26,15 +26,15 @@ This project is developed in Flutter and focuses on delivering breaking news acr
 
 You can preview the application through the following screenshots:
 
-![Screenshot 1](Screenshot_1692361281.png | width=200)
-![Screenshot 2](Screenshot_1692361286.png | width=200)
-![Screenshot 3](Screenshot_1692361299.png | width=200)
-![Screenshot 4](Screenshot_1692361316.png | width=200)
-![Screenshot 5](Screenshot_1692361323.png | width=200)
-![Screenshot 6](Screenshot_1692361327.png | width=200)
-![Screenshot 7](Screenshot_1692361336.png | width=200)
-![Screenshot 8](Screenshot_1692363908.png | width=200)
-![Screenshot 9](Screenshot_1692363916.png | width=200)
+![Screenshot 1](Screenshot_1692361281.png)
+![Screenshot 2](Screenshot_1692361286.png)
+![Screenshot 3](Screenshot_1692361299.png)
+![Screenshot 4](Screenshot_1692361316.png)
+![Screenshot 5](Screenshot_1692361323.png)
+![Screenshot 6](Screenshot_1692361327.png)
+![Screenshot 7](Screenshot_1692361336.png)
+![Screenshot 8](Screenshot_1692363908.png)
+![Screenshot 9](Screenshot_1692363916.png)
 
 ## Conclusion
 
